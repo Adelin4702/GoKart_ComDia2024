@@ -1,0 +1,4 @@
+../Core/Src/CanDrv/Test_CanDrv.c:42:19:Test_Can_Init	2
+../Core/Src/CanDrv/Test_CanDrv.c:57:19:Test_Can_Write	2
+../Core/Src/CanDrv/Test_CanDrv.c:22:19:Test_CanDrv	2
+../Core/Src/CanDrv/Test_CanDrv.c:79:19:Test_Can_DeInit	1

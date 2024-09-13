@@ -1,0 +1,4 @@
+../Core/Src/OS/OS.c:16:6:OS_TaskHandler	8	static
+../Core/Src/OS/OS.c:44:6:OS_1000ms_Task	0	static
+../Core/Src/OS/OS.c:49:6:OS_10ms_Task	0	static
+../Core/Src/OS/OS.c:54:6:OS_5ms_Task	0	static

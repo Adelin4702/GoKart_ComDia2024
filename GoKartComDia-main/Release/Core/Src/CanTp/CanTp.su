@@ -1,0 +1,9 @@
+../Core/Src/CanTp/CanTp.c:69:6:PduR_Dcm_SendRequest	40	static
+../Core/Src/CanTp/CanTp.c:18:6:CanTp_Init	0	static
+../Core/Src/CanTp/CanTp.c:42:6:CanTp_PduR_SendRequest	0	static
+../Core/Src/CanTp/CanTp.c:27:19:CanTp_RxIndication	8	static
+../Core/Src/CanTp/CanTp.c:54:6:PduR_MainFunction	16	static
+../Core/Src/CanTp/CanTp.c:136:6:PduR_Dcm_GetResponse	0	static
+../Core/Src/CanTp/CanTp.c:167:6:CanTp_TxConfirmation	16	static
+../Core/Src/CanTp/CanTp.c:148:6:PduR_CanTp_SendResponse	16	static
+../Core/Src/CanTp/CanTp.c:179:6:CanTp_ErrorHandler	0	static,ignoring_inline_asm

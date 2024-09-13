@@ -1,0 +1,5 @@
+../Core/Src/DCM/Dcm_Service_SecurityAccess.c:18:26:Dcm_Service_SecurityAccess_RequestNrcCheck	0	static
+../Core/Src/DCM/Dcm_Service_SecurityAccess.c:128:6:Dcm_Service_SecurityAccess_ResetServiceState	0	static
+../Core/Src/DCM/Dcm_Service_SecurityAccess.c:57:26:Dcm_Service_SecurityAccess	24	static
+../Core/Src/DCM/Dcm_Service_SecurityAccess.c:138:10:Dcm_Service_SecurityAccess_EncryptSeed	0	static
+../Core/Src/DCM/Dcm_Service_SecurityAccess.c:143:10:Dcm_Service_SecurityAccess_DecryptKey	0	static

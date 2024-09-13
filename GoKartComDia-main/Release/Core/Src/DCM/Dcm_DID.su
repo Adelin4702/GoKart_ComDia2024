@@ -1,0 +1,7 @@
+../Core/Src/DCM/Dcm_DID.c:17:6:Dcm_DID_Init	0	static
+../Core/Src/DCM/Dcm_DID.c:61:9:Dcm_Get_DID_0x100B_diagToolAndSessionStatus	8	static
+../Core/Src/DCM/Dcm_DID.c:66:9:Dcm_Get_DID_0x2010_programmingStatus	8	static
+../Core/Src/DCM/Dcm_DID.c:71:9:Dcm_Get_DID_0x201A_appSoftwareReprogrammingAttemptCounter	8	static
+../Core/Src/DCM/Dcm_DID.c:76:9:Dcm_Get_DID_0xF110_ecuDiagnosticIdentification	8	static
+../Core/Src/DCM/Dcm_DID.c:81:9:Dcm_Get_DID_0xF1A2_vectorDeliveryID	8	static
+../Core/Src/DCM/Dcm_DID.c:86:9:Dcm_Get_DID_0xF1BD_ecuSignatureType	8	static

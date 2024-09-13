@@ -1,0 +1,4 @@
+../Core/Src/CanDrv/Test_CanDrv.c:42:19:Test_Can_Init	8	static
+../Core/Src/CanDrv/Test_CanDrv.c:57:19:Test_Can_Write	24	static
+../Core/Src/CanDrv/Test_CanDrv.c:22:19:Test_CanDrv	8	static
+../Core/Src/CanDrv/Test_CanDrv.c:79:19:Test_Can_DeInit	0	static

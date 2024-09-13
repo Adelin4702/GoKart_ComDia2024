@@ -1,0 +1,6 @@
+../Core/Src/DCM/DCM.c:25:6:Dcm_CreateResponse	8	static
+../Core/Src/DCM/DCM.c:48:6:Dcm_PduR_GetRequest	40	static
+../Core/Src/DCM/DCM.c:133:6:Dcm_PduR_SendResponse	0	static
+../Core/Src/DCM/DCM.c:138:6:Dcm_Test_ReadDataByIdentifier	24	static
+../Core/Src/DCM/DCM.c:148:6:Dcm_Test_SecurityAccess	48	static
+../Core/Src/DCM/DCM.c:15:6:Dcm_Init	8	static

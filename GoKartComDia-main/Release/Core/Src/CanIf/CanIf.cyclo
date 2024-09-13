@@ -1,0 +1,5 @@
+../Core/Src/CanIf/CanIf.c:14:6:CanIf_MainFunction	1
+../Core/Src/CanIf/CanIf.c:70:19:CanIf_RxIndication	4
+../Core/Src/CanIf/CanIf.c:104:19:CanIf_TxConfirmation	1
+../Core/Src/CanIf/CanIf.c:20:6:CanIf_Client	3
+../Core/Src/CanIf/CanIf.c:118:6:CanIf_ErrorHandler	1

@@ -1,0 +1,3 @@
+../Core/Src/DCM/Dcm_Service_ReadDataByIdentifier.c:13:26:Dcm_Service_ReadDadaByIdentifier_RequestNrcCheck	0	static
+../Core/Src/DCM/Dcm_Service_ReadDataByIdentifier.c:33:26:Dcm_Service_ReadDadaByIdentifier_ResponseNrcCheck	0	static
+../Core/Src/DCM/Dcm_Service_ReadDataByIdentifier.c:47:26:Dcm_Service_ReadDataByIdentifier	48	static
